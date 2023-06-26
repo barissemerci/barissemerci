@@ -12,7 +12,7 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/barissemerci/"  target="_blank" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/barissemerci" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://www.hackerrank.com/barissemerci" target="_blank" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
 </h5>
 <br>
 <p align="center">
