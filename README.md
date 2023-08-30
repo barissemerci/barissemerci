@@ -25,7 +25,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning how to build mobile apps with both React Native and Native Android
+  📚 I’m currently learning how to build mobile apps with both Kotlin Jetpack Compose and Flutter
 
   📫 How to reach me: <a href="mailto: barissemerci3@gmail.com">barissemerci3@gmail.com</a>
 </p>
