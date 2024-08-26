@@ -1,7 +1,5 @@
 ### Hello there 👋
 
-#### A Mobile App Developer by day ☼ and a Indie Developer by night ☾
-
 Mobile App Developer at [Wiro AI](https://wiro.ai/);<br>
 
 - ⚙️ I use daily: `.kt`, `.xml`, `.dart`
